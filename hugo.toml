@@ -3,7 +3,7 @@ publishDir = "docs"
 languageCode = 'en-us'
 title = 'sarah-lecinski'
 enableEmoji = 'true'
-theme = "paper"
+theme = 'paper'
 
 
 
