@@ -1,6 +1,6 @@
-baseURL = 'https://sarah-lecinski.org/'
+baseURL = 'https://sarah-lecinski.github.io/'
 languageCode = 'en-us'
-title = 'Sarah Lecinski'
+title = 'sarah-lecinski'
 enableEmoji = 'true'
 theme = "paper"
 
