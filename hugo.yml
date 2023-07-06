@@ -1,5 +1,6 @@
 baseURL: "https://sarah-lecinski.github.io/"
 title: "sarah-lecinski"
+publishDir: docs
 permalinks:
 params:
   AuthorName: "SarahL"
