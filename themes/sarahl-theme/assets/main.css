@@ -1,0 +1,15 @@
+body{
+	padding: 0
+	margin: 0
+}
+
+.homepage_header{
+	background-color: white
+	padding: 2rem;
+}
+
+.container {
+	
+	width : 1000px
+	margin: 0 auto;
+}
