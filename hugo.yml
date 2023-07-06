@@ -1,0 +1,10 @@
+baseURL: "https://sarah-lecinski.github.io/"
+title: "sarah-lecinski"
+permalinks:
+params:
+  AuthorName: "SarahL"
+  GitHubUser: "slecinski"
+  ListOfFoo:
+    - "foo1"
+    - "foo2"
+  SidebarRecentLimit: 5
