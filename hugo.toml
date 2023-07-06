@@ -1,4 +1,5 @@
 baseURL = 'https://sarah-lecinski.github.io/'
+publishDir = "docs"
 languageCode = 'en-us'
 title = 'sarah-lecinski'
 enableEmoji = 'true'
