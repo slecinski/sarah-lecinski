@@ -1,4 +1,4 @@
-baseURL = 'https://sarah-lecinski.github.io/'
+baseURL = 'https://slecinski.github.io/sarah-lecinski/'
 publishDir = "docs"
 languageCode = 'en-us'
 title = 'sarah-lecinski'
