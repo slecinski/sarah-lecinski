@@ -6,7 +6,7 @@ title: "Education"
 #draft: true
 ---
 ### 	PhD in biophysics, 2023
-		Cellular stress characterisation using optical microscopy
+		Cellular stress and optical microscopy
 		Physics of Life group,
 		Department of Physics,
 		University of York (UK)

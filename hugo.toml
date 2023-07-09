@@ -23,7 +23,7 @@ theme = 'paper'
   # home page profile
   avatar = 'sarah.lecinski@york.ac.uk'                 # gravatar email or image url
   name = 'Welcome to my website'
-  bio = 'In here you can find record of my scientific activities.'
+  bio = 'In here you can find record of my scientific activities'
   
   
   [menu]
