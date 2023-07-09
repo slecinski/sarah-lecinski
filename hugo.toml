@@ -30,6 +30,6 @@ theme = 'paper'
 
   [[menu.main]]
     identifier = "contact"
-    name = "My Socials : "
+    name = "My Socials   "
     #url = "/contact/"
     weight = -10
