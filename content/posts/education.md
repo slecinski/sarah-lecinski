@@ -7,13 +7,12 @@ title: "Education"
 ---
 ### 	PhD in biophysics, 2023
 		Cellular stress and optical microscopy
-		Physics of Life group,
-		Department of Physics,
+		Physics of Life group
 		University of York (UK)
 <!--more-->
 ### 	Master in biochemistry, 2017
 		Proteins and therapeutic targets
-		Paris Diderot University (FR),
+		Paris Diderot University (FR)
 		ETH Zurich (CH)
 <!--more-->
 ### 	Bachelor in biomedical sciences, 2015

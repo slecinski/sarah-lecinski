@@ -21,9 +21,9 @@ theme = 'paper'
   #linkedin = 'YOUR_LINKEDIN_ID'             # linkedin.com/in/YOUR_LINKEDIN_ID
 
   # home page profile
-  avatar = 'sarah.lecinski@york.ac.uk'                 # gravatar email or image url
+  avatar = 'slecin98@gmail.com'                 # gravatar email or image url
   name = 'Welcome to my website'
-  bio = 'In here you can find record of my scientific activities'
+  bio = 'Here you can find a record of my scientific activities'
   
   
   [menu]
