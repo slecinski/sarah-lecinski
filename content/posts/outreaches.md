@@ -4,27 +4,24 @@ title: "Science outreach"
 #draft: true
 ---
 
-Public outreaches are activities I enjoy doing during py PhD ( see below),
+Public outreaches are activities I enjoy doing during py PhD (see below),
 I also present here access to couple of video games I adapted, a bit of a neardy hobby
 But I can see a potential for public outreaches.
 
 ### :joystick: Video games 
 
-I enjoyed learning to code for image analysis purpose.
-With some notion of coding I had fun giving a try to video game programation.
-All games are adapted from open-sourced video games,
-All coded in Lua Language.
+I enjoyed learning to code for image analysis purpose. With some notion of coding I had fun giving a try to video game programation.
 
-Game 1 : A custumised snake game, I coded the scoring system and changed graphics (using microscopic image of a yeast).
-Game 2 : Phage/Bacteria Game and vice versa. Adapted from an "asteroid" game.
-Game 3 : Flappy yeast - adapted from flappy bird, The bird became a yeast cell and pipes are Falcon tubes :)
+It was fun to make! You can find a descritive list below.
 
-It was fun to make!
+| Game-name              | Description |
+| -------------- | -------------- |
+| A snake game   | I coded the scoring system and changed graphics (using microscopic image of a yeast for the snake body) |
+| Phage vs Bacteria | Adapted from an "asteroid" shooter game  |
+|Flappy yeast| adapted from flappy bird, The bird became a yeast cell and pipes are Falcon tubes|
 
-
-- [Download and try the games here](https://github.com/slecinski/Video-game/tree/main/windows%20executables) 
-
-
+All games are adapted from open-sourced video games and coded in the Lua Language. 
+[Availlable to try ](https://github.com/slecinski/Video-game/tree/main/windows%20executables) on my github.
 
 ### :school: Primary school Outreaches, 2020
 
