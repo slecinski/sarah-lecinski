@@ -23,6 +23,8 @@ I performed kinetics measurements (ThT binding) and used super-resolution micros
 
 α-Syn protein are responsible for Parkinson's disease where it is found to form amyloid fibres in the brain of ageing patients, a type of protein aggregate. These fibres accumulating in neurones are toxic and alternate cell functions. Insight on physical parameter influencing their formation have the potential to help health challenges currently facing to understand the mechanism causing the disease.
 
+![MasterProject image](https://github.com/slecinski/sarah-lecinski/assets/88392307/6002ace6-9f8d-4ef2-baf9-f3d37581ef72)
+
 
 
 ---------------
