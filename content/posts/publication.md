@@ -13,6 +13,8 @@ I optimised a cellular model with yeast strains engineered for the controlled ex
 
 I developed methodologies to understand cells' responses to environmental stress, macromolecular crowding dynamic and associated spatiotemporal events to ensure cell survival, such as the intracellular distribution of stress-induced aggregates. This comprehension is essential for biomedical purposes such as understanding factors influencing the distribution of pathological aggregates found in neurodegenerative disease. But also for pharmaceutical and industrial purposes, to understand and monitor the performance of synthetic circuits and their interaction with core metabolic processes in the cell. The homeostasis of the cells is disturbed by the accumulation and distribution of the exogenic compound (e.g pharmaceuticals, food additives) and developing new approaches to predict cell stress response spatiotemporal dynamics associated can ultimately permit the optimisation of practices for high-yield production.
 
+![maps_crowding](https://github.com/slecinski/sarah-lecinski/assets/88392307/74a7ec7a-3a05-4b37-8518-3987f9b9524d)
+
 --------------
 2. **MSc project highlight**
 
